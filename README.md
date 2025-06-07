@@ -1,5 +1,5 @@
 Hello! My name is Anupam Nepal. I am from Tribhuvan University, Nepal currently taking the course of Bachelors of Science in Computer Science and Information Technology.
-I have a huge interest in coding. Currently I am studying Python and its libraries.
+I have a huge interest in coding. Currently I am studying Javascript and Python.
 I love to join different communities involved in this sector.
 
 <!--
